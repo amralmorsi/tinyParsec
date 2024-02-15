@@ -1,5 +1,5 @@
 # tinyParsec
-`tinyParsec` is a minimal parsing library (similar to [`Parsec`](https://github.com/haskell/parsec)) using parser combinators fully written in Haskell.
+`tinyParsec` is a minimal parsing library (similar to [`Parsec`](https://github.com/haskell/parsec), hence the name) using parser combinators fully written in Haskell.
 
 The repo contains a Jupyter Notebook with the source-code and a comprehensive, step-by-step explanation of the concepts and the code in the entire library, with a simple JSON parser in the end as an example.
 
