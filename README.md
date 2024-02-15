@@ -6,3 +6,4 @@ The repo contains a Jupyter Notebook with the source-code and a comprehensive, s
 #### TODO:
 1. [ ] Change the names of combinators to follow `Parsec`'s
 2. [ ] Upgrading it to a simple parser generator. 
+3. [ ] Clear up the notebook and add better documentation and explanation using `Haddock`
